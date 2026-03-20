@@ -1,0 +1,7 @@
+*.class
+openclaw.db
+sqlite-jdbc.jar
+slf4j-api.jar
+tmp/
+.env
+.env.*
